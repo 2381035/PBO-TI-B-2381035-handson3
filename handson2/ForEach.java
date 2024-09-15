@@ -6,7 +6,7 @@ public class ForEach {
             for (String numstring : num) {
               int numint = Integer.parseInt(numstring);
                  if (numint % 2 == 0){
-                System.out.println(numint);
+                     System.out.println(numint);
             }
         }
     }
